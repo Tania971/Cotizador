@@ -75,7 +75,7 @@ img {
     padding: 0.5rem;
     border-radius: 0.5rem;
     background-color: rgb(41, 32, 218);
-    color: aqua;
+    color:aliceblue;
     cursor: pointer;
     transition: all 0.2s ease-in-out;
 }
